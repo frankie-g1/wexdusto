@@ -1,6 +1,6 @@
 # wexdusto
 
-It asks for the area codes you do want to invade - and then the program writes to the wexdustconfig.txt properly including all the codes you didn't specify.
+It asks for the area codes you DO want to invade - and then the program writes to the wexdustconfig.txt properly including all the codes you didn't specify.
 
 Include a space between each code. 
 
